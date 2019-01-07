@@ -7,4 +7,4 @@ On this GitHub page you can report bugs and submit suggestions.
 For more information about the CheatBreaker Modpack visit our Website: https://ShonP40.wix.com/CheatBreakerModpack
 
 
-©2018 by CheatBreaker Modpack
+©2018-2019 by CheatBreaker Modpack
