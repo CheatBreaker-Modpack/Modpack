@@ -20,3 +20,5 @@ Time Changer (by Fyu) - https://2pi.pw/mods/timechanger
 VoxelMap (No Radar) - http://www.9minecraft.net/voxelmap-no-radar-mod/
 Schematica - https://minecraft.curseforge.com/projects/schematica
 LunatriusCore - https://minecraft.curseforge.com/projects/lunatriuscore
+Cooldowns - https://youtu.be/if1t-gO2yfc
+DirectionHUD - https://minecraft.curseforge.com/projects/directionhud
