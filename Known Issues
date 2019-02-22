@@ -1,0 +1,5 @@
+Known Issues:
+
+
+Cooldowns mod will display an Enderpearl cooldown when you have 1 full xp bar or more.
+You can fix this issue by removing the Enderpearl cooldown using the EXP bar by typing "/cooldowns" and removing the enderpearl cooldown by the EXP bar.
