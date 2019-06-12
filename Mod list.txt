@@ -22,3 +22,4 @@ Schematica - https://minecraft.curseforge.com/projects/schematica
 LunatriusCore - https://minecraft.curseforge.com/projects/lunatriuscore
 Cooldowns - https://youtu.be/if1t-gO2yfc
 DirectionHUD - https://minecraft.curseforge.com/projects/directionhud
+Profiles Mod (by canelex) - https://www.mediafire.com/file/w4zo6bk3vpo4z9o/%281.7.10%29+profilemod.jar
