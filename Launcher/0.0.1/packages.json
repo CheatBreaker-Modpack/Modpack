@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "Make your Minecraft look like CheatBreaker",
+      "name" : "CheatBreaker Modpack",
+      "version" : "0.0.1",
+      "location" : "cheatbreaker-modpack.json",
+      "priority" : 0
+    }
+  ]
+}
