@@ -6,7 +6,7 @@ On this GitHub page you can report bugs and submit suggestions using the Bug lab
 
 You can also ask questions using the Question lable.
 
-For more information about CheatBreaker Modpack and an download link visit our [website](http://bit.ly/CheatBreakerModpack)
+For more information about CheatBreaker Modpack and an download link visit our [website](http://bit.ly/CheatBreakerModpack).
 
 
 ©2018-2019 by CheatBreaker Modpack
