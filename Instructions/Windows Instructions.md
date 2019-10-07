@@ -1,4 +1,4 @@
-Windows Instructions
+# Windows Instructions
 Please note that this modpack is optimized for 1920 x 1080 displays in full screen mode and for Large GUI scale, if your display has a different resolution you will have to edit a couple of settings after you install the Modpack.
 
  
