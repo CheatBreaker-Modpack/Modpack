@@ -4,4 +4,4 @@ CheatBreaker Modpack makes your Minecraft look like CheatBreaker by using specif
 For more information about CheatBreaker Modpack visit our [website](http://bit.ly/CheatBreakerModpack).
 
 
-©2018-2019 by CheatBreaker Modpack
+©2018-2020 by CheatBreaker Modpack
