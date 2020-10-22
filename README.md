@@ -8,5 +8,7 @@ You can also ask questions using the Question label.
 
 For more information about CheatBreaker Modpack and an download link visit our [website](https://cheatbreakermodpack.tk).
 
-
 ©2018-2020 by CheatBreaker Modpack
+
+# Discontinued
+This modpack has been discontinued in favor of [Offline CheatBreaker](https://offlinecheatbreaker.com)
