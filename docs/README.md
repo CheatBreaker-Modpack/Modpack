@@ -5,4 +5,4 @@ For more information about CheatBreaker Modpack visit our [website](https://Chea
 
 **NOTE: Microsoft accounts aren't supported on this launcher! (You can use the Play offline button)**
 
-©2018-2020 by CheatBreaker Modpack
+©2018-2021 by CheatBreaker Modpack
